@@ -253,9 +253,10 @@ function App() {
             NOVA is online
           </div>
           <div className="creator-credit">
-    Designed & developed by Gangadharan S.
-  </div>
-        </div>
+  <span>Designed & developed by</span>
+  <strong>Gangadharan S</strong>
+</div>
+</div>
       </aside>
 
       <main className="main">
