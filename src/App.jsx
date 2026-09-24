@@ -252,6 +252,9 @@ function App() {
             <span className="status-dot"></span>
             NOVA is online
           </div>
+          <div className="creator-credit">
+    Designed & developed by Gangadharan S.
+  </div>
         </div>
       </aside>
 
